@@ -1,6 +1,8 @@
 ﻿# mvc-1-2568 ข้อที่ 2 
 โครงสร้างไฟล์ของโปรเจค:
 
+App.java → Main class ของโปรแกรม รันโปรแกรมและเรียก View เริ่มต้น (LoginView)
+
 data/<br>
     students.csv → เก็บข้อมูลนักเรียน<br>
     subjects.csv → เก็บข้อมูลรายวิชา<br>
@@ -86,3 +88,4 @@ view/<br>
 ▪ หน้ารายละเอียดวิชา: กดปุ่ม "Details" จะแสดงรายละเอียดวิชา
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/941dcceb-3496-4665-94a2-3bf33a16019b" />
+
